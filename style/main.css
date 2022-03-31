@@ -114,3 +114,21 @@ h1{
     font-size: 40px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
+
+.botao-play{
+    text-decoration: none;
+    color: #fff;
+}
+
+.botao-play:hover{
+    color: black;
+}
+
+.botao-info{
+    text-decoration: none;
+    color: #fff;
+}
+
+.botao-info:hover{
+    color: black;
+}
